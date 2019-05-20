@@ -11,20 +11,18 @@ __Game Genre: Adventure (Text Adventure)__
 
 ### Game Mechanics
 - Players will click various story paths to get different endings.
-- Some decisions can lead to death.
+- Decisions can either be detrimental or just simply nice.
 - Some decisions can loop a character back to an earlier part in the story.
-- If the player can make it through the weekend and get to work on Monday, they "win". 
+- Short version, quick play.
 
 ### Characters
-- The side characters in the game range from desparate exes, drunk friends, a biploar UberEats driver, a kid in need, and so on. How the player interacts with each can make a difference in how the story goes.
+- The side characters in this game are pretty much your best friend, your mom, and a cat named Santiago.
 
 ### Environments
-- Environment 1 - At home, rainy day, cozy
-- Environment 2 - Supermarket, stay home option
-- Environment 3 - Beach, road trip option
+- Environment 1 - All at home.
 
 ### The Story
-You wake up late on a Saturday afternoon. It's up to the player on how they're going to spend their weekend (and if they're even going to make it through it!). 
+You wake up late on a Saturday afternoon. It's up to the player on how they're going to spend their weekend! 
 
 ### Unique Selling Points
 1. Funny, relatable scenarios.
@@ -41,7 +39,7 @@ I'm planning to use the following resources to help me make my game.
 3. Watching games like *Heavy Rain*, *Detroit: Becoming Human*, and *Caroline* on Youtube
 
 ### Five Unity Store Assets I May Use
-1. To be determined
+1. Visual Novel Took Kit
 
 ### Five Images
 1. ![alt text](http://s3.amazonaws.com/journal.laurelmercantile.com/uploads/2014/11/Screen-shot-2014-11-16-at-11.29.42-PM1.png "Cozy Home")
