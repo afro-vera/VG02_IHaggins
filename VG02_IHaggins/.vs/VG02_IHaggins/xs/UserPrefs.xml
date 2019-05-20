@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{15873AEE-A77B-CD9B-CEA4-D6A1B79B1B65}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Lazy Saturday(1).html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DialogueSystem.cs">
     <Files>
-      <File FileName="Assets/Scripts/NewBehaviourScript.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Lazy Saturday(1).html" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DialogueSystem.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -61,7 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\DialogueSystem.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/ihaggins/Desktop/VG02_IHaggins/VG02_IHaggins/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
